@@ -1,2 +1,2 @@
 # PEGA
- applications
+ Application developed using Pega
